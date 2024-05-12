@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+### Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
