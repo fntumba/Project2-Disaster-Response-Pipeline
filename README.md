@@ -40,9 +40,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 - models
   
-|- train_classifier.py
+    |- train_classifier.py
 
-|- classifier.pkl  # saved model 
+    |- classifier.pkl  # saved model 
 
 
 - README.md
